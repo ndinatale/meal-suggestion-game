@@ -1,0 +1,32 @@
+{
+  "starches": [
+    "Brown Rice",
+    "Quinoa",
+    "Sweet Potato",
+    "Whole Wheat Pasta",
+    "Couscous",
+    "Basmati Rice",
+    "Wild Rice",
+    "Buckwheat"
+  ],
+  "proteins": [
+    "Grilled Chicken",
+    "Salmon",
+    "Tofu",
+    "Black Beans",
+    "Chickpeas",
+    "Lean Beef",
+    "Tempeh",
+    "Tuna"
+  ],
+  "vegetables": [
+    "Broccoli",
+    "Spinach",
+    "Roasted Brussels Sprouts",
+    "Carrots",
+    "Green Beans",
+    "Asparagus",
+    "Bell Peppers",
+    "Zucchini"
+  ]
+}
