@@ -7,7 +7,9 @@
     "Couscous",
     "Basmati Rice",
     "Wild Rice",
-    "Buckwheat"
+    "Buckwheat",
+    "White Rice",
+    "Mashed Potato"
   ],
   "proteins": [
     "Grilled Chicken",
@@ -17,7 +19,9 @@
     "Chickpeas",
     "Lean Beef",
     "Tempeh",
-    "Tuna"
+    "Tuna",
+    "Steak",
+    "White Fish"
   ],
   "vegetables": [
     "Broccoli",
@@ -27,6 +31,8 @@
     "Green Beans",
     "Asparagus",
     "Bell Peppers",
-    "Zucchini"
+    "Zucchini",
+    "Squash",
+    "Cauliflower"
   ]
 }
